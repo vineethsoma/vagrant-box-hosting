@@ -1,0 +1,13 @@
+{
+    "name": "esa-oam",
+    "description": "This box contains Oracle 6.5 x86-64 with weblogic 10.3.6 and OAM R2PS3 installed",
+    "versions": [{
+        "version": "0.1.0",
+        "providers": [{
+                "name": "virtualbox",
+                "url": "http://esaserver01.cei.cox.com/vagrant/esa-oam/boxes/esa-oam.box",
+                "checksum_type": "sha1",
+                "checksum": "467b1bff0391a5205ea286900c6e4964a77b3eb0"
+        }]
+    }]
+}

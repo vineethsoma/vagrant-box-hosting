@@ -1,0 +1,21 @@
+{
+    "name": "devops",
+    "description": "This box contains Ubuntu 14.04.1 LTS 64-bit.",
+    "versions": [{
+        "version": "0.1.0",
+        "providers": [{
+                "name": "virtualbox",
+                "url": "file:///Users/hollodotme/VagrantBoxes/devops_0.1.0.box",
+                "checksum_type": "sha1",
+                "checksum": "d3597dccfdc6953d0a6eff4a9e1903f44f72ab94"
+        }]
+    },{
+        "version": "0.1.1",
+        "providers": [{
+                "name": "virtualbox",
+                "url": "file:///Users/hollodotme/VagrantBoxes/devops_0.1.1.box",
+                "checksum_type": "sha1",
+                "checksum": "0b530d05896cfa60a3da4243d03eccb924b572e2"
+        }]
+    }]
+}
